@@ -5,6 +5,7 @@
 Naza | https://github.com/nazaMorillo/Cv | ?????
 Sergio | https://github.com/SergioRugiero/cvonline | https://sergiorugiero.github.io/cvonline/
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto1-CV-Online | ????
+Ed* | https://github.com/eduardoequis/CVOnline | https://eduardoequis.github.io/CVOnline/
 
 # PROYECTO 2: HOME BANKING
 
