@@ -7,6 +7,7 @@ Sergio | https://github.com/SergioRugiero/cvonline | https://sergiorugiero.githu
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto1-CV-Online | ????
 Emilio | https://github.com/EmilioDifferding/cv | https://emiliodifferding.github.io/cv/
 Pampa | https://github.com/hernanpampa/cvonline | ????
+German | https://github.com/geralaggia/CV_Online | ????
 Ed* | https://github.com/eduardoequis/CVOnline | https://eduardoequis.github.io/CVOnline/
 
 # PROYECTO 2: HOME BANKING
@@ -18,6 +19,7 @@ Sergio | https://github.com/SergioRugiero/HomeBanking | https://sergiorugiero.gi
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto02-Homebanking | ????
 Emilio | ??? | ???
 Pampa | https://github.com/hernanpampa/HomeBanking | ????
+German | ??? | ???
 
 # PROYECTO 3: ROMPECABEZAS
 
@@ -28,6 +30,7 @@ Sergio | https://github.com/SergioRugiero/rompecabezas | https://sergiorugiero.g
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto03-Rompecabezas | ????
 Emilio | ??? | ???
 Pampa | https://github.com/hernanpampa/rompecabezas | ????
+German | ??? | ???
 
 # PROYECTO 4: PIXEL ART
 
@@ -38,6 +41,7 @@ Sergio | https://github.com/SergioRugiero/pixel-art | ???
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto04-PixelArt | https://enzo-21.github.io/ACAMICA-Proyecto04-PixelArt/ 
 Emilio | ??? | ???
 Pampa | https://github.com/hernanpampa/pixelart | ????
+German | ??? | ???
 
 
 # PROYECTO 5: CIUDAD ZOMBIE
@@ -49,5 +53,6 @@ Sergio | ??? | ???
 Enzo | ???? | ?????
 Emilio | ??? | ???
 Pampa | ????? | ????
+German | ??? | ???
 
 # PROYECTO 5: RESERVANDO
