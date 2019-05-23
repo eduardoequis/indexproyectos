@@ -2,7 +2,7 @@
 
 👤 | Repositorio | Ver Proyecto 
 ------------ | ------------- | -------------
-Naza | https://github.com/nazaMorillo/Cv | ?????
+Naza | https://github.com/nazaMorillo/Cv | https://nazamorillo.github.io/Cv/
 Sergio | https://github.com/SergioRugiero/cvonline | https://sergiorugiero.github.io/cvonline/
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto1-CV-Online | ????
 Emilio | https://github.com/EmilioDifferding/cv | https://emiliodifferding.github.io/cv/
@@ -15,7 +15,7 @@ Ed* | https://github.com/eduardoequis/CVOnline | https://eduardoequis.github.io/
 
 👤 | Repositorio | Ver Proyecto 
 ------------ | ------------- | -------------
-Naza | https://github.com/nazaMorillo/home-banking| ?????
+Naza | https://github.com/nazaMorillo/home-banking| https://nazamorillo.github.io/home-banking/ (Password: 4321)
 Sergio | https://github.com/SergioRugiero/HomeBanking | https://sergiorugiero.github.io/HomeBanking/
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto02-Homebanking | ????
 Emilio | ??? | ???
@@ -27,7 +27,7 @@ Juan | https://github.com/juan23davila/home-banking | ???
 
 👤 | Repositorio | Ver Proyecto 
 ------------ | ------------- | -------------
-Naza | https://github.com/nazaMorillo/rompecabezas | ?????
+Naza | https://github.com/nazaMorillo/rompecabezas | https://nazamorillo.github.io/rompecabezas/
 Sergio | https://github.com/SergioRugiero/rompecabezas | https://sergiorugiero.github.io/rompecabezas/
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto03-Rompecabezas | ????
 Emilio | ??? | ???
@@ -39,7 +39,7 @@ Juan | https://github.com/juan23davila/ropecabezas| ???
 
 👤 | Repositorio | Ver Proyecto 
 ------------ | ------------- | -------------
-Naza | https://github.com/nazaMorillo/pixel-art | ?????
+Naza | https://github.com/nazaMorillo/pixel-art | https://nazamorillo.github.io/pixel-art/
 Sergio | https://github.com/SergioRugiero/pixel-art | ???
 Enzo | https://github.com/Enzo-21/ACAMICA-Proyecto04-PixelArt | https://enzo-21.github.io/ACAMICA-Proyecto04-PixelArt/ 
 Emilio | ??? | ???
@@ -52,7 +52,7 @@ Juan | https://github.com/juan23davila/PixelArt | ???
 
 👤 | Repositorio | Ver Proyecto 
 ------------ | ------------- | -------------
-Naza | [CENSURADO] | ?????
+Naza | https://github.com/nazaMorillo/ciudad-zombie | https://nazamorillo.github.io/ciudad-zombie/
 Sergio | ??? | ???
 Enzo | ???? | ?????
 Emilio | ??? | ???
@@ -61,3 +61,13 @@ German | ??? | ???
 Juan | ??? | ???
 
 # PROYECTO 5: RESERVANDO
+
+👤 | Repositorio | Ver Proyecto 
+------------ | ------------- | -------------
+Naza | https://github.com/nazaMorillo/reservando | ???????
+Sergio | ??? | ???
+Enzo | ???? | ?????
+Emilio | ??? | ???
+Pampa | ????? | ????
+German | ??? | ???
+Juan | ??? | ???
